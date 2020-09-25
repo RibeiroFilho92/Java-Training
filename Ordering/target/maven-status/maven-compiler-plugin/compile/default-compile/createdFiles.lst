@@ -1,0 +1,7 @@
+entities\Client.class
+entities\enums\OrderStatus.class
+entities\Order.class
+entities\StringDateFormat.class
+entities\Product.class
+application\Application.class
+entities\OrderItem.class
